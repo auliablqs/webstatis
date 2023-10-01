@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title></title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style> h1 {text-align: center;}
+    img {float:left}
+    table, th, td {border: 1px solid slateblue; border-radius: 10px;}
+    /* style all elements with the class name "section" */
+    .section { background-color: lightslategray; color: black; border: 2px solid black; margin: 20px; padding: 40px;}
+    #KARAKTERISTIKBAND {
+    background-color: grey;
+    color: black;
+    padding: 40px;
+    text-align: center;}
+    </style>
+</head>
+<body style="background-color: burlywood;"></body>
+<h1 style="background-color: maroon; font-family: poppin; color: white">BIOGRAFI ONE DIRECTION</h1>
+<h2>PROFIL ONE DIRECTION</h2>
+<p style="text-align: justify; font-size: 20px;""><img src="https://www.dymocks.com.au/getmedia/26ca9973-eb07-4a88-8a4a-9a0332838484/one-direction.jpg.aspx?width=400&height=320&ext=.jpg" width="400" height="310" style= margin-right:10px><b> <i>One Direction</i></b></p>adalah sebuah grup vokal Inggris-Irlandia berbasis di London, terdiri dari Niall Horan, Liam Payne, Harry Styles, Louis Tomlinson, dan, sampai keluarnya Zayn Malik tahun 2015 dari grup ini. Mereka dikontrak oleh kontrak rekaman Simon Cowell Syco Records setelah terbentuk dan selesai di posisi ketiga di musim ketujuh dari kompetisi menyanyi televisi Inggris The X Factor pada tahun 2010. Mendapatkan sukses internasional melalui media sosial, lima album One Direction, Up All Night (2011), Take Me Home (2012), Midnight Memories (2013), Four (2014), dan Made in the A.M. (2015), memuncaki pasar di banyak negara, dan menghasilkan single hit termasuk "What Makes You Beautiful", "Live While We're Young", "Best Song Ever", "Story of My Life" dan "Drag Me Down". 
+Penghargaan mereka termasuk enam Brit Awards, empat MTV Video Music Awards, sebelas MTV Europe Music Awards, tujuh American Music Awards (termasuk kategori Artist of the Year pada tahun 2014 dan 2015), dan 28 Teen Choice Awards. One Direction menghasilkan $50 juta tahun 2012 dan dinobatkan menjadi "Top New Artist" oleh Billboard tahun 2012. International Federation of the Phonographic Industry (IFPI) menjadikan mereka Global Recording Artist of 2013. Pada tahun 2015, Forbes menempatkan mereka di posisi empat selebritas dengan pendapatan tertinggi di dunia, dan kedua pada tahun 2016. Setelah perilisan Four, One Direction menjadi grup pertama di sejarah Billboard 200 AS yang mempunyai empat album pertama yang debut di nomor satu. Album ketiga mereka, Midnight Memories, merupakan album dengan penjualan-terlaris di seluruh dunia tahun 2013. Where We Are Tour mereka untuk mempromosikan Midnight Memories dan Four, merupakan konser tur dengan pendapatan-tertinggi di 2014, dan tur dengan pendapatan-tertinggi oleh sebuah grup vokal, memperoleh $282 juta. Pada tahun 2014, Billboard menobatkan One Direction sebagai Artist of the Year. Grup ini melakukan cuti pada bulan Januari 2016, mengizinkan semua peserta untuk mengejar proyek sendiri. Per 2017, grup ini telah menjual total 50 juta rekaman di seluruh dunia.
+<p style="text-align: justify; font-size: 16px;">Pada tahun 2010, Niall Horan, Zayn Malik, Liam Payne, Harry Styles, dan Louis Tomlinson mengikuti audisi sebagai peserta solo di musim ketujuh dari kompetisi menyanyi televisi Inggris The X Factor. Mereka gagal untuk masuk di kategori "Boys" di tahap "rumah juri" tetapi disatukan kembali untuk membentuk sebuah grup vokal lima-orang di Wembley Arena, di London, Inggris, pada bulan Juli 2010, selama tahap "bootcamp" di kompetisi ini, yang terkualifikasi di kategori "Groups". Nicole Scherzinger, seorang juri tamu, dan Simon Cowell yang mereka berdua klaim bahwa mereka yang mempunyai ide untuk membentuk grup ini. Pada tahun 2013, Cowell berkata bahwa hal itu "membutuhkannya 10 menit untuk menempatkan mereka di satu grup". Kemudian, grup ini kemudian bersama-sama selama dua minggu mengenal satu sama lain dan berlatih. Styles came up with the name One Direction. Untuk lagu kualifikasi mereka di "rumah juri", dan lagu pertama mereka sebagai sebuah grup, One Direction menyanyikan versi akustik dari "Torn". Cowell kemudian berkomentar bahwa penampilan mereka meyakinkannya bahwa mereka "percaya diri, menyenangkan, seperti sekumpulan teman, dan juga tidak kenal rasa takut". Kurang dari empat minggu dari pertunjukan langsung, mereka merupakan peserta terakhir Cowell di kompetisi. Grup ini kemudian secara cepat mendapat popularitas di Inggris
+<p>One Direction berada di posisi ketiga di kompetisi ini dan tak lama setelah final, lagu mereka "Forever Young", yang akan dirilis jika mereka memenangkan The X Factor, bocor di internet. Tak lama setelah itu dikonfirmasi bahwa One Direction telah dikontrak oleh Cowell yang kontrak rekamannya dilaporkan sebesar £2 juta oleh Syco Records. Rekaman untuk album debut mereka dimulai pada bulan Januari 2011, mereka terbang ke Los Angeles untuk bekerja bersama RedOne, seorang produser rekaman. Sebuah buku lisensi oleh One Direction, One Direction: Forever Young (Our Official X Factor Story), dikeluarkan oleh HarperCollins pada bulan Februari 2011, yang kemudian memuncaki daftar Terlaris The Sunday Times. Pada bulan yang sama, grup ini dan kontestan lain berpartisipasi di X Factor Live Tour. Selama tur, grup ini tampil untuk 500,000 orang di seluruh Inggris. Setelah tur ini selesai pada April 2011, grup ini melanjutkan bekerja untuk album debut mereka. Rekaman ini bertempat di Stockholm, London dan Los Angeles, dan One Direction bekerja dengan para produser seperti Carl Falk, Savan Kotecha, Steve Mac, dan Rami Yacoub, serta yang lainnya.</p>
+</p>
+
+<!--Block Inline-->
+<address style="font-size: large;">The Official Website: <a href="https://www.onedirectionmusic.com/gb/home.html">One Direction Music</a></address>
+<br>
+
+
+<!--List-->
+<h2>Mantan Anggota</h2>
+<ol>
+    <li>Harry Style, Harry Edward Styles (lahir 1 Februari 1994) adalah seorang penyanyi, penulis lagu dan aktor berkebangsaan Inggris. Dia dikenal sebagai anggota dari boy band One Direction.</li>
+    <li>Zayn Malik, Zain Javadd Malik (lahir 12 Januari 1993) adalah seorang penyanyi dan penulis lagu berkebangsaan Inggris</li>
+    <li>Liam Payne, Liam James Payne (lahir 29 Agustus 1993) adalah seorang penyanyi dan penulis lagu berkebangsaan Inggris</li>
+    <li>Niall Horan, Niall James Horan (lahir 13 September 1993) adalah seorang penyanyi dan penulis lagu berkebangsaan Irlandia</li>
+    <li>Louis Tomlinson, Louis William Tomlinson (lahir 24 Desember 1991) adalah seorang penyanyi, penulis lagu dan tokoh televisi berkebangsaan Inggris</li>
+</ol>
+<h2>Daftar Album One Direction</h2>
+<ul>
+    <li>Up All Night, adalah album debut boy band One Direction. Album ini dirilis pada tanggal 18 November 2011 oleh Sony Music</li>
+    <li>Take Me Home, adalah album studio dari boy band One Direction, dirilis pada tanggal 9 November 2012, oleh Syco Records. Album ini merupakan tindak lanjut atas kesuksesan album debut One Direction secara internasional yaitu Up All Night (2011)</li>
+    <li>Midnight Memories, adalah album studio ketiga boy band asal Inggris-Irlandia, One Direction, yang dirilis pada tanggal 25 November 2013 oleh Sony Music Entertainment.</li>
+    <li>Four, adalah album studio keempat dari boy band Inggris-Irlandia, One Direction. Album ini dirilis oleh Columbia Records dan Syco Music pada 17 November 2014</li>
+    <li>Made in the A.M , adalah album studio kelima dari boy band Inggris-Irlandia One Direction, dirilis pada tanggal 13 November 2015, oleh Columbia Records dan Syco Music</li>
+</ul>
+<hr>
+
+<!--Table-->
+<h2>Filmografi</h2>
+<table>
+    <tr>
+        <th>Tahun</th>
+        <th>Judul</th>
+        <th>Peran</th>
+        <th>Catatan</th>
+    </tr>
+    <tr>
+        <td>2010</td>
+        <td>The X Factor</td>
+        <td>kontestan</td>
+        <td>One Direction terbentuk dan menjadi juara ketiga pada musim ke-7</td>
+    </tr>
+    <tr>
+        <td>2011</td>
+        <td>EITV1 Special, One Direction: A Year in the Making</td>
+        <td>Diri mereka sendiri</td>
+        <td>Biografi One Direction setelah lepas dari The X Factor</td>
+    </tr>
+    <tr>
+        <td>2012</td>
+        <td>Dancing on Ice</td>
+        <td>Bintang tamu</td>
+        <td>"Pop Week" (Musim ke-7, minggu ke-5)</td>
+    </tr>
+    <tr>
+        <td>2012</td>
+        <td>The X Factor (Australia)</td>
+        <td>Mentor tamu</td>
+        <td>One Direction menjadi mentor tamu di musim keempat</td>
+    </tr>
+    <tr>
+        <td>2012</td>
+        <td>Saturday Night Live</td>
+        <td>Bintang Tamu</td>
+        <td>"Sofia Vergara/One Direction" (Musim ke-37, episode 720)</td>
+    </tr>
+    <tr>
+        <td>2012</td>
+        <td>iCarly</td>
+        <td>Bintang Tamu</td>
+        <td>"iGo One Direction" (Musim ke-6, episode 96)</td>
+    </tr>
+    <tr>
+        <td>2012</td>
+        <td>Up All Night: The Live Tour</td>
+        <td>Diri mereka sendiri</td>
+        <td>DVD tur "Up All Night" di International Centre, Bournemouth</td>
+    </tr>
+    <tr>
+        <td>2013</td>
+        <td>One Direction: This Is Us</td>
+        <td>Diri mereka sendiri</td>
+        <td>Perjalanan hidup</td>
+    </tr>
+</table>
+<hr>
+
+<!--ID-->
+<h2 id="KARAKTERISTIKBAND">KARAKTERISTIK BAND</h2>
+<div class="section">
+    <h2>Pengaruh</h2>
+    <p style="font-size: large;">One Direction menjadi pembicaraan setelah berhasil menembus pasar musik Amerika Serikat hanya dalam waktu beberapa minggu dengan satu debut album saja. Membuat rekor di tangga lagu Amerika Serikat, Billboard 200. Prestasi mencengangkan ini membuat mereka mencatatkan diri sebagai artis Inggris pertama yang memasuki Billboard dan langsung melesat ke posisi puncak dengan album perdana, menyingkirkan rekor sebelumnya, Bruce Springsteen dan Adele dari puncak tangga lagu. Rekor ini bahkan juga melewati rekor musisi Inggris lainnya seperti The Rolling Stones dan The Beatles. Kehadiran mereka dianggap sebagai pembawa kembali zaman keemasan yang dulu dihiasi para jawara boy band seperti Backstreet Boys, Westlife dan 'N Sync. Penampilan panggung mereka selalu dipadati Directioners (istilah untuk penggemar One Direction). Oleh sebab itu, tidak berlebihan bila mereka dijuluki sebagai pembawa wabah Inggris baru, atau "British Invasion" di Amerika Serikat dan di seluruh dunia.
+        Neil McCormick dari The Daily Telegraph menerbitkan sebuah artikel tentang fenomena kesuksesan One Direction di Amerika Utara. Menurutnya, AS telah menyediakan celah di pasar musiknya yang menyebabkan masih ada anak-anak muda lainnya yang berhasil menembusnya setelah Justin Bieber beberapa tahun silam. Bill Werde, perwakilan dari majalah Billboard berkomentar: "Ada banyak kemungkinan di sini, salah satunya adalah jika bakat yang bagus diiringi dengan penampilan yang bagus juga, maka itu benar-benar badai yang sempurna untuk sebuah kesuksesan, kesuksesan yang fenomenal. Sementara itu, Sonny Takhar, direktur Syco Records berpendapat mengenai peranan media sosial: "Inilah faktanya. Media sosial telah menjadi radio baru. Mereka (One Direction) hidup di sana. Begitu juga penggemar mereka, dan ini membantu menciptakan ilusi bahwa mereka bisa lebih dekat dengan penggemar mereka." Hingga Mei 2012, tercatat akun Twitter One Direction telah mengumpulkan lebih dari 12 juta pengikut, lebih dari 204 juta penonton di Youtube dan 4 juta penyuka di Facebook.</p>
+    </div>
+
+<!--Classes-->
+<div class="section">
+    <h2>Gaya Musik</h2>
+    <p style="font-size: large;">Genre album pertama One Direction sebagian besar didominasi oleh pop, yang berorientasi ke dance-pop, teen pop, pop rock dan power pop serta dipengaruhi oleh electropop dan rock. Album ini secara umum mendapat ulasan positif dari para kritikus. "Up All Night" dipuji karena sasarannya terhadap pendengar yang berusia remaja. Robert Copsey dari Digital Spy menyatakan bahwa "Up All Night" didominasi oleh pop rock, sedangkan The New York Times menganggap album ini bergenre "rock dengan infleksi pop". Jason Lipshutz dari Billboard berpendapat bahwa album ini "mendemonstrasikan sebuah orisinalitas dalam suara yang diperlukan untuk kebangkitan kembali era boy band", juga membandingkan "harmoni pop" mereka dengan grup-grup seperti 'N Sync, Backstreet Boys dan 98 Degrees. Lagu "One Thing" dan "What Makes You Beautiful" secara khusus dikatakan memiliki genre power pop dan pop rock dengan chorus yang "kuat".</p>
+    </div>
+
+<div class="section">
+    <h2>Usaha Lain</h2>
+    <p style="font-size: large;">Buku berlisensi pertama One Direction, One Direction: Forever Young (Our Official X Factor Story), dirilis pada 17 Februari 2011 yang diterbitkan oleh HarperCollins. Buku tersebut berisi informasi-informasi pribadi, foto-foto, dan kegiatan di luar panggung selama The X Factor dan The X Factor Live Tour.[166] Buku ini sukses menjadi buku terlaris di Sunday Times Bestseller. Tanggal 1 September 2011, One Direction: The Official Annual 2012 dirilis, yang berisikan antara lain wawancara eksklusif, sampai dengan berita dan foto-foto para personel yang belum pernah dipublikasikan. Pada 15 September 2011, One Direction merilis Dare to Dream: Life as One Direction. Seperti buku-buku sebelumnya, buku ini juga memuat foto-foto eksklusif, kegiatan para personel di luar panggung, dan momen-momen pribadi yang tertangkap kamera. Buku ini juga berhasil merajai daftar buku non-fiksi terlaris Sunday Times dan dirilis di Amerika Serikat pada tanggal 22 Mei 2012.</p>
+    </div>
+
+<div class="section">
+    <h2>Filantrofi</h2>
+    <p style="font-size: large;">Selain karier musiknya, One Direction juga ikut berkontribusi dalam beberapa kegiatan amal. Pada tahun 2010, saat mereka berlima masih jadi kontestan The X Factor, One Direction bersama sebelas kontestan lainnya merilis sebuah singel gubahan dari lagunya David Bowie yang berjudul "Heroes" untuk tujuan amal. Lagu ini direkam pada tanggal 18 Oktober 2010 dan hasil penjualannya digunakan untuk membantu sebuah badan amal bernama Help for Heroes yang bertujuan untuk menyediakan fasilitas yang lebih baik bagi prajurit dan wanita Inggris yang terluka atau cacat akibat peperangan. Musik video untuk lagu ini dibuat pada tanggal 2 November 2010 di Three Mills Studios. Lagu ini berhasil menempati posisi pertama di Irish Singles Chart pada tanggal 25 November 2010 dan di UK Singles Chart pada tanggal 28 November 2010. Pada bulan September 2011, One Direction turut berpartisipasi dalam acara pengumpulan dana dengan tema BGC Charity Day 2011 untuk membantu warga negara Inggris yang kondisinya belum pulih pasca peristiwa 11 September 2001 (foto).</p>
+    </div>
+
+<!--Media-->
+<hr>
+<h2>SINGLE DEBUT</h2>
+<p style="font-size: large;">Berikut adalah Music video single debut dari one direction yang berjudul What Makes You Beautiful</p>
+<iframe width="560" height="315" src="https://youtube.com/embed/QJO3ROT-A4E?si=y2f3j5Xo0YY3TQqv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!--Forms-->
+<hr>
+<h2>KRITIK dan SARAN</h2>
+
+<form>
+    <label for="fname" style="font-size: large;">Nama</label><br>
+    <input type="text" id="fname" name="fname"><br>
+    <label for="nim" style="font-size: large;">NIM</label><br>
+    <input type="numeric" id="nim" name="nim"><br>
+    <label for="kritiksaran" style="font-size: large;">Kritik/Saran</label><br>
+    <input type="text" id="kritiksaran" name="kritiksaran"><br>
+    <input type="submit" value="Submit"></form>
+
+</body>
+</html>
