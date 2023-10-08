@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+img {
+    width: 100%;
+    image-resolution: 100%;
+    margin: auto;
+}
+body {
+    /*background-color: black;*/
+    background-image: url(https://wallpaperaccess.com/full/4225615.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: forestgreen;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+    margin: 40px 30px;
+}
+h2 {
+    color: forestgreen;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: deepskyblue;
+}
+p {
+    font-size: 20px;
+    text-align: justify;
+    line-height: 30px;
+    padding: 20px;
+    width: 900px;
+    margin: 10px auto;
+}
+d1 {
+    line-height: 30px;
+}
+dt {
+    font-family: 'Lucida Sans';
+    font-size: large;
+    background-color: darkgreen;
+    width: 980px;
+    margin-top: 10px;
+    padding: 10px;
+}
+dd {
+    font-family: monospace;
+    background-color: darkolivegreen;
+    width: 1000px;
+    height: 400px auto;
+    text-indent: 40px;
+    text-align: justify;
+    font-size: 17px;
+    line-height: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: underline;
+    text-transform: capitalize;
+    line-height: 30px;
+    padding: 20px;
+}
+.koleksi{
+    width: 900px;
+    margin: 30px auto;
+}
+d1 img {
+    width: 200px;
+    float: left;
+    /*margin-top: 10px;
+    margin-right: 20px;*/
+    margin: 10px 20px 10px 0px;
+    padding: 10px;
+    background-color: beige;
+    /*border-top-left-radius: 50px;*/
+    border-radius: 100px;
+}
+.clear {
+    clear: left;
+}
+.footer {
+    margin-left: 100px;
+}
