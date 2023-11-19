@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/javascript" media="screen" href="script.js">
+    <script src="https://unpkg.com/feather-icons"></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css">
+    <link rel="icon" type="image/x-icon" href="images/download ultra.png">
+    <title>Produk</title>
+</head>
+<style>
+
+.hero {
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    background-image: url("images/header\ ultra.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+body {
+    background-color: rgb(240, 231, 237);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+}
+
+h1 span {
+        color: lightseagreen;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin: 40px;
+    align-items: center;
+    grid-gap: 30px;
+}
+
+img {
+    object-fit: cover;
+}
+
+.grid article {
+    box-shadow: 10px 5px 5px 0px black;
+    border-radius: 30px;
+    text-align: center;
+    background: lightseagreen;
+    width: 300px;
+    transition: transform;
+}
+
+.grid article img {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    /**width: 100%;**/
+}
+
+/**.konten {
+    /**text-transform: uppercase;**/
+    /**cursor: progress;
+}**/
+
+.grid article:hover {
+    /**transform: rotate(5deg);
+    /**transform: scale(0.5); /**zoom out**/
+    transform: scale(1.2);
+    /**transform: translate(50px); /**geser**/
+}
+
+footer {
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 1rem 0 3rem;
+    margin-top: 3rem;
+}
+
+footer .social {
+    padding: 1rem 0;
+}
+
+footer .social a {
+    color: black;
+    margin: 1rem;
+}
+
+footer .social a:hover {
+    color: white;
+}
+
+footer .links {
+    margin-bottom: 1.4rem;
+}
+
+footer .links a {
+    color: black;
+    padding: 0.7rem 1rem;
+}
+
+footer .links a:hover {
+    color: #fff;
+}
+
+footer .credit {
+    font-size: 0.8rem;
+}
+
+footer .credit a {
+    color: black;
+    font-weight: 700;
+}
+</style>
+
+
+<body>
+    <br>
+    <h1><span>Produk - </span>Produk</h1>
+    <br>
+    <br>
+    <div class="container">
+        <main class="grid">
+            <article>
+                <img src="images/product_fullcream2023.jpg" width="300px" height="300px">
+                <div class="konten">
+                    <h2> Ultra Milk Full Cream</h2>
+                    <p>Susu segar alami berkualitas tinggi</p>
+            </div>
+            </article>
+           <article>
+            <img src="images/low fat.jpg" width="300px" height="300px">
+            <div class="konten">
+                <h2> Ultra Milk Low Fat</h2>
+                <p>Keseimbangan kandungan lemak dan kalsium di dalamnya</p>
+            </div>
+           </article>
+        <article>
+            <img src="images/milk flavour.jpg" width="300px" height="300px">
+            <div class="konten">
+                <h2> Ultra Milk Flavour</h2>
+                <p>Susu cair segar berkualitas tinggi dengan perpaduan natural rasa</p>
+            </div>
+        </article>
+        <article>
+            <img src="images/produk_mimi2023.png" width="300px" height="300px">
+            <div class="konten">
+                <h2> Ultra Mimi</h2>
+                <p>Ultra Mimi Kids sebagai nutrisi yang lengkap dan berimbang bagi anak</p>
+            </div>
+        </article>
+    </main>
+
+    <div class="container">
+        <main class="grid">
+            <article>
+                <img src="images/teh kotak.jpg" width="300px" height="300px">
+                <div class="konten">
+                    <h2>Teh Kotak Jasmine Tea</h2>
+                    <p>Terbuat dari ekstrak daun teh berkualitas tinggi, yang berasal dari perkebunan teh terbaik</p>
+                </div>
+            </article>
+            <article>
+                <img src="images/product_tehkotak_thumb.jpg" width="300px" height="300px">
+                <div class="konten">
+                    <h2>Teh Kotak Flavored Tea</h2>
+                    <p>Berasal dari daun teh pilihan dan dikombinasikan dengan esktrak buah</p>
+                </div>
+            </article>
+            <article>
+                <img src="images/product_sariasem_new.jpg" width="300px" height="300px">
+                <div class="konten">
+                    <h2>Ultra Sari Asem Asli</h2>
+                    <p>Adalah minuman kesehatan khas tradisional Indonesia yang terbuat dari ekstrak buah asem</p>
+                </div>
+            </article>
+            <article>
+                <img src="images/product_capsapikaleng.jpg" width="300px" height="300px">
+                <div class="konten">
+                    <h2>Cap Sapi</h2>
+                    <p>Cap Sapi Krimer Kental Manis menjadi produk yang cocok untuk minum kopi dengan krim dan juga untuk kebutuhan membuat kue.</p>
+                </div>
+                </article>
+        </main>
+
+        <footer>
+            <div class="social">
+              <a href="https://www.instagram.com/mymilk_id/"><i data-feather="instagram"></i></a>
+              <a href="https://twitter.com/mymilk_id?lang=en"><i data-feather="twitter"></i></a>
+              <a href="https://www.facebook.com/MyMilk.id/?locale=id_ID"><i data-feather="facebook"></i></a>
+            </div>
+    
+            <div class="links">
+              <a href="#contact">Home</a>
+              <a href="produk.html">Produk</a>
+              <a href="berita.html">Berita</a>
+              <a href="kontak.html">Kontak</a>
+            </div>
+
+            <div class="credit">
+              <p>Credit by <a href="https://www.ultrajaya.co.id/">PT. UltraJaya Milk Industry and Trading Company/</a>. | &copy; 2023.</p>
+            </div>
+        </footer>
+
+        <script>
+            feather.replace();
+          </script>
+
+
+</body>
+</html>

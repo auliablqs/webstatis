@@ -1,0 +1,238 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: lightseagreen;
+    color: white;
+    padding: 25px ;
+    
+}
+
+.navbar .navbar-logo {
+    width: 40%;
+    margin: 0;
+    padding: 0;
+}
+
+
+    /* Style dasar untuk navigasi bar */
+ul.navbar {
+    list-style-type: none;
+    font-size: 1.2rem;
+    margin: 0;
+    padding: 0;
+    background-color: lightseagreen;
+    overflow: hidden;
+}
+
+/* Style dasar untuk elemen navigasi */
+ul.navbar li {
+    float: right;
+}
+
+/* Style untuk tautan navigasi */
+ul.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: none;
+}
+
+/* Style saat tautan dihover */
+ul.navbar li a:hover {
+    background-color: #555;
+}
+
+/* Style untuk drop-down menu */
+ul.navbar li.dropdown {
+    display: inline-block;
+}
+
+/* Style untuk isi drop-down menu */
+ul.navbar .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: darkgrey;
+    min-width: 100px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Style untuk tautan dalam drop-down menu */
+ul.navbar .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    display: block;
+    text-align: left;
+    text-decoration: none;
+}
+
+/* Style saat tautan dalam drop-down menu dihover */
+ul.navbar .dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+/* Tampilkan drop-down menu saat dihover */
+ul.navbar li.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.content img {
+    width: 100%; /* Gambar akan mengisi lebar konten */
+    height: auto;
+}
+
+
+body {
+    background-color: rgb(240, 231, 237);
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+/* About Section*/
+.about {
+    padding: 10rem 7% 10rem;
+}
+
+.About h2 {
+    text-align: center;
+    font-size: 2.6rem;
+    margin-bottom: 3rem;
+}
+
+.About h2 span {
+    color: lightseagreen;
+}
+    
+.About .row {
+    display: flex;
+}
+
+.About .row .about-img {
+    flex: 1 1 45rem;
+}
+
+.About .row .about-img img {
+    width: 100%;
+}
+
+.About .row .content {
+    flex: 1 1 35rem;
+    padding: 0 1rem;
+}
+
+.About .row .content h3 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.About .row .content p {
+    margin-bottom: 0.8rem;
+    font-size: 1.4rem;
+    font-weight: 100;
+    line-height: 1.6;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+h2 span {
+        color: lightseagreen;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin: 40px;
+    align-items: center;
+    grid-gap: 30px;
+}
+
+img {
+    object-fit: cover;
+}
+
+.grid article {
+    box-shadow: 10px 5px 5px 0px black;
+    border-radius: 30px;
+    text-align: center;
+    background: lightseagreen;
+    width: 300px;
+    transition: transform;
+}
+
+.grid article img {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    /**width: 100%;**/
+}
+
+/**.konten {
+    /**text-transform: uppercase;**/
+    /**cursor: progress;
+}**/
+
+.grid article:hover {
+    /**transform: rotate(5deg);
+    /**transform: scale(0.5); /**zoom out**/
+    transform: scale(1.2);
+    /**transform: translate(50px); /**geser**/
+}
+
+footer {
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 1rem 0 3rem;
+    margin-top: 3rem;
+}
+
+footer .social {
+    padding: 1rem 0;
+}
+
+footer .social a {
+    color: black;
+    margin: 1rem;
+}
+
+footer .social a:hover {
+    color: white;
+}
+
+footer .links {
+    margin-bottom: 1.4rem;
+}
+
+footer .links a {
+    color: black;
+    padding: 0.7rem 1rem;
+}
+
+footer .links a:hover {
+    color: #fff;
+}
+
+footer .credit {
+    font-size: 0.8rem;
+}
+
+footer .credit a {
+    color: black;
+    font-weight: 700;
+}
+
+.side-bar {
+    background: #1b1a1b;
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    overflow-y: auto;
+    transition: 0.6s ease;
+    transition-property: right;
+}
